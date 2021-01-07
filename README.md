@@ -1,4 +1,6 @@
-使用[LOFTER](https://github.com/FromEndWorld/LOFFER) 模板。
+使用[LOFFER](https://github.com/FromEndWorld/LOFFER) 模板。
+
+哈哈，之前模板名称写错了。
 
 
 ## 致谢
