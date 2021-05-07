@@ -13,4 +13,5 @@ tags: [Android]
 - [Google官方文档](https://developer.android.com/docs)
   - [学习笔记 - Google官方文档 - 应用基础知识](/android-note-google-basic)
   - [学习笔记 - Google官方文档 - 核心主题 - Activity](/android-note-google-main-activity)
+  - [学习笔记 - Google官方文档 - 核心主题 - 架构组件](/android-note-google-main-architecture)
 
